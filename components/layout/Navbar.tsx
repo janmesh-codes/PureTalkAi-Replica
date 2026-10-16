@@ -11,11 +11,8 @@ export default function Navbar() {
             width={114}
             height={38}
             unoptimized
-            className="w-[114px]"
+            className="w-[114px] brightness-0 invert"
           />
-          <span className="rounded border border-white/60 px-1 text-[7px]">
-            Beta
-          </span>
         </a>
 
         <div className="hidden items-center gap-9 text-[15px] font-semibold lg:flex">
